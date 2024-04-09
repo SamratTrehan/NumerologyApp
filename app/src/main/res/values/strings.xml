@@ -1,0 +1,1407 @@
+<resources>
+    <string name="app_name">Numerology Solutions</string>
+    <string name="logo">logo</string>
+    <string name="fn">First Name</string>
+    <string name="ln">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="title_activity_display">display</string>
+    <string name="tab_text_1">Overall</string>
+    <string name="tab_text_2">Grid Solutions</string>
+    <string name="tab_text_3">Personal Year</string>
+
+    <string name="eighteight">"You have a combination of driver 8 and conductor 8 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You are very good in handling of finances.
+ It is not a good combination. Success is hard to achieve. Married life needs more attention, to maintain balance in your professional and married life to need to take support of number 6 and do remedies for Venus. Take support of number 6.
+ Law, Army, Police, IAS and Banking are some good fields for you.
+
+ Lucky Numbers:
+ 5,6,7.
+ Neutral Numbers:
+ 3,4,8.
+ Unlucky Numbers:
+ 1,2,9.
+ Lucky Colors:
+ White, Green, Yellow.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="eightfive">"You have a combination of driver 8 and conductor 5 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You have good emotional balance, adaptability and very good communication skills.
+ It is an average combination. You will get slow success. Take support of number 6.
+ Realestate, Banking, Financial Business are some good sectors for you.
+
+ Lucky Numbers:
+ 3,6,5,7.
+ Neutral Numbers:
+ 1,2,8,9,4.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="eightfour">"You have a combination of driver 8 and conductor 4 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You are disciplined, freedom lover, hard working, you make your own rule, proudy, egoistic, stubborn and you tend to hide your feelings. You are good in managing things.
+ It is not a good combination. You will face struggle in your married life and professional life. Take support of number 6.
+ You will get success but less than what you deserve. Law, Politics, Army, Police, IS officer, Banking and Sales and Marketing are suitable for you.
+ You have to do hard work in every aspect of your life.
+
+ Lucky Numbers:
+ 5,6,7.
+ Neutral Numbers:
+ 2,9,3,4,8.
+ Unlucky Numbers:
+ 1.
+ Lucky Colors:
+ White, Green, Yellow.
+ Unlucky Color:
+ Red, Black.
+
+
+"</string>
+    <string name="eightnine">"You have a combination of driver 8 and conductor 9 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You are energetic and humanitarian.
+ It is an average combination. You will get success but not up to the mark. You will face problems with health and married life. Take support of 5 and 3.
+ Police, Sports and Army are some good fields for you.
+
+ Lucky Numbers:
+ 6,5,3,7.
+ Neutral Numbers:
+ 9.
+ Unlucky Numbers:
+ 1,2,4,8.
+ Lucky Colors:
+ Green, Yellow.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="eightone">"You have a combination of driver 8 and conductor 1 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You have ruling ability, strong personality, determination and loyalty.
+ It is not a good combination. You will get slow success. Take support of number 4 and 5. You will have a disturbed married life.
+ Police, Army, IPS, Authoritative Business, Banking, Property Business and Sports are good fields for you.
+
+ Lucky Numbers:
+ 5,3,6,7.
+ Neutral Numbers:
+ 1,4,8,2,9.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="eightseven">"You have a combination of driver 8 and conductor 7 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You have strong believe in god and spirituality sometimes you are less confident.
+ It is an average combination. You may face disappointments in your professional and personal life. You love to help others. Take support of number 6.
+ Sports, Law and Occult Science are some good fields for you. You will be more comfortable in jobs
+
+ Lucky Numbers:
+ 5,6,7.
+ Neutral Numbers:
+ 1,2,9,3,4,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="eightsix">"You have a combination of driver 8 and conductor 6 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You are very materialistic and very good with relations.
+ It is a good combination. You will be professionally successful but stay away from controversies. You are a beauty lover. You are good in handling relationships. Take support of number 5.
+ Media, Acting, Singing, Tour and Travel, Finance and Business related to Glamour are good fields for you.
+
+ Lucky Numbers:
+ 4,5,6,7.
+ Neutral Numbers:
+ 1,3,2,9,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="eightthree">"You have a combination of driver 8 and conductor 3 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You are creative, expressive, artistic, spiritual, moody, sometimes depressive.
+ It is an average combination. You will get delayed success. Take support of number 5.
+ Sales and Marketing, Insurance, Education and Politics  are some good sectors you can get into.
+
+ Lucky Numbers:
+ 5,3,8,7.
+ Neutral Numbers:
+ 2,9,4.
+ Unlucky Numbers:
+ 1,6.
+ Lucky Colors:
+ Green, Yellow.
+ Unlucky Color:
+ White, Red, Black.
+
+
+"</string>
+    <string name="eighttwo">"You have a combination of driver 8 and conductor 2 you are spiritual, materialistic, realistic, intelligent, ambitious, good manager, disciplined, goal oriented, focused and you have the ability to judge. You are sensitive, you have strong intuition power, emotional nature and helping too.
+ It is not a good combination. You will get delayed success with struggle. You will face struggle in all aspects of your life. Take support of number 5.
+
+ Realestate, Sports, Financial Business and Banking are some good fields for you.
+ Lucky Numbers:
+ 5,6,3,2,7.
+ Neutral Numbers:
+ 4,9,8.
+ Unlucky Numbers:
+ 1.
+ Lucky Colors:
+ White, Green, Yellow.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="fiveeight">"You have a combination of driver 5 and conductor 8 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You are very good in handling of finances, intelligent, ambitious, good managers.
+ It is a good combination. You will get slow success. Take support of number 6.
+ Administrative, Sport, Financial Business and Banking are some good fields for you.
+
+ Lucky Numbers:
+ 5,6,7.
+ Neutral Numbers:
+ 3,4,8.
+ Unlucky Numbers:
+ 1,2,9.
+, Lucky Colors:
+ White, Green,, Yellow.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="fivefive">"You have a combination of driver 5 and conductor 5 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant.
+ It is an average combination. You lack confidence. Name number should be on 1 or 6. You have a childish nature.
+ Teaching, Media and Hotel Industry are some good sectors for you. Avoid political interferences.
+
+ Lucky Numbers:
+ 1,2,3,6,5.
+ Neutral Numbers:
+ 4,7,8,9.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fivefour">"You have a combination of driver 5 and conductor 4 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You are hard working, stubborn, you hide your feelings, egoistic and you love to make your own rules.
+ It is an average combination. You are a good spokes person, you love to take risks. Name number should be on 1 or 6.
+ Media, Politics, Administrative Jobs, Banking and Sales are suitable for you.
+
+
+ Lucky Numbers:
+ 1,5,6,7.
+ Neutral Numbers:
+ 3,4,8.
+ Unlucky Numbers:
+ 2,9.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fivenine">"You have a combination of driver 5 and conductor 9 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You are energetic, idealistic and humanitarian.
+ It is an average combination. You are artistic, leader and proudy. You will get success and respect. You are very brave and generous.
+ Restaurant, Authoritative jobs, Social Worker and IS Officer are some good fields for you. Take support of number 1.
+
+ Lucky Numbers:
+ 1,5,3.
+ Neutral Numbers:
+ 9,7,6.
+ Unlucky Numbers:
+ 4,2,8.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="fiveone">"You have a combination of driver 5 and conductor 1 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You have ruling ability, strong personality, determination and loyalty.
+ It is a very good combination. You will be professionally successful. You can be a good politician.
+ Import-Export, Banking Sector, Authoritative Jobs and Politics are good fields for you. You are capable to transform from rags to riches. Take support of number 6.
+
+ Lucky Numbers:
+ 1,2,5,3,6.
+ Neutral Numbers:
+ 4,7,9.
+ Unlucky Numbers:
+ 8.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fiveseven">"You have a combination of driver 5 and conductor 7 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You have strong believe in god and spirituality sometimes you are less confident.
+ It is an average combination. You will rise with your hard work and simple nature. Do social/charitable acts.
+ Healing Profession, Media, Vastu are some good fields for you. You will be more comfortable in jobs.
+
+ Lucky Numbers:
+ 1,5,6,4.
+ Neutral Numbers:
+ 2,9,3,7,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fivesix">"You have a combination of driver 5 and conductor 6 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You are very materialistic and very good with relations.
+ It is a very good combination. You will be professionally successful. You are an art lover.
+ Media, Politics, Acting, Singing, Hotel and Restaurants, Tour and Travel, Sales and Marketing  and Business related to Glamour are good fields for you. Take support of 1 or 6.
+
+ Lucky Numbers:
+ 1,4,5,6,7.
+ Neutral Numbers:
+ 2,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="fivethree">"You have a combination of driver 5 and conductor 3 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You are creative, expressive, artistic, spiritual, moody, sometimes depressive.
+ It is a good combination. You will get delayed success.
+ Education Sector, Administrative Jobs, Doctors, IS Officer are some good sectors you can get into. Take support of number 1.
+
+ Lucky Numbers:
+ 1,5,3,2.
+ Neutral Numbers:
+ 4,7,8.
+ Unlucky Numbers:
+ 6.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ White, Black.
+
+
+"</string>
+    <string name="fivetwo">"You have a combination of driver 5 and conductor 2 you are emotionally balanced, have extremely independent mind, loyal, you find it hard to stick to a job or relationship, you are risk taker, versatile, adaptable, smart, progressive and tolerant. You are sensitive, you have strong intuition power, emotional nature and helping too.
+ It is a good combination. You will get delayed success with struggle. You need to control your mind, you are not good in decision making.
+ You will be successful in your life, business is not a good field for you.
+ Media, Banking and Administrative Jobs are some good fields for you. Name number should be 6 or 1.
+ Lucky Numbers:
+ 1,2,3,5,6.
+ Neutral Numbers:
+ 7,9,4,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="foureight">"You have a combination of driver 4 and conductor 8 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You are very good in handling of finances.
+ It is not a good combination. Success is hard to achieve. Married life needs more attention, to maintain balance in your professional and married life to need to take support of number 6 and do remedies for Venus.
+ Import-Export, Army, Police, IS Officer, Banking, Sports are some good fields for you.
+
+ Lucky Numbers:
+ 5,6,7.
+ Neutral Numbers:
+ 1,2,9,3,4,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Yellow.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="fourfive">"You have a combination of driver 4 and conductor 5 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You have good emotional balance, adaptability and very good communication skills.
+ It is a very good combination. You will be professionally successful.
+ Media, Tour and Travel, Sales and Marketing, Administrative Jobs, Banking and Computers are some good sectors for you.
+
+ Lucky Numbers:
+ 1,2,3,6,5,7.
+ Neutral Numbers:
+ 8,9,4.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fourfour">"You have a combination of driver 4 and conductor 4 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff.
+ It is not a good combination. You will face struggle in your married life and professional life.
+ But with time you will get success. Media, Vastu, Reiki, Army , Police, IS officer, Technical Work, Tour and Travel and Sales and Marketing are suitable for you.
+ You have to do hard work in every aspect of your life.
+
+ Lucky Numbers:
+ 1,5,6,7.
+ Neutral Numbers:
+ 3,4,8.
+ Unlucky Numbers:
+ 2,9.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fournine">"You have a combination of driver 4 and conductor 9 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You are energetic and humanitarian.
+ It is an average combination. You will get success but not up to the mark. You will face problems in married life.
+ Media, Restaurants, Sports, Army, Authoritative jobs, Sales and Marketing and Technical are some good fields for you.
+
+ Lucky Numbers:
+ 1,5,3.
+ Neutral Numbers:
+ 2,9,7,6,4,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="fourone">"You have a combination of driver 4 and conductor 1 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You have ruling ability, strong personality, determination and loyalty.
+ It is a very good combination. You will be professionally successful. You can be a good politician.
+ Import-Export, Tour and Travel, Authoritative Jobs and Politics are good fields for you.
+
+ Lucky Numbers:
+ 1,7,5,2,9,6,4.
+ Neutral Numbers:
+ 8,3.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fourseven">"You have a combination of driver 4 and conductor 7 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You have strong believe in god and spirituality sometimes you are less confident.
+ It is a very good combination. You will get professional success. You will rise with your hard work and simple nature.
+ Healing Profession, Media, Vastu are some good fields for you. You will be more comfortable in jobs
+
+ Lucky Numbers:
+ 1,5,6,4.
+ Neutral Numbers:
+ 2,9,3,7,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="foursix">"You have a combination of driver 4 and conductor 6 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You are very materialistic and very good with relations.
+ It is a very good combination. You will be professionally successful but stay away from controversies. You are an art lover.
+ Media, Politics, Acting, Singing, Hotel and Restaurants, Tour and Travel, Sales and Marketing  and Business related to Glamour are good fields for you.
+
+ Lucky Numbers:
+ 1,4,5,6,7.
+ Neutral Numbers:
+ 2,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="fourthree">"You have a combination of driver 4 and conductor 3 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You are creative, expressive, artistic, spiritual, moody, sometimes depressive.
+ It is an average combination. You will get delayed success.
+ Politics, Occult Science, Healing Profession and Spiritual guides are some good sectors you can get into.
+
+ Lucky Numbers:
+ 1,5,3,7.
+ Neutral Numbers:
+ 6,4,8.
+ Unlucky Numbers:
+ 2,9.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="fourtwo">"You have a combination of driver 4 and conductor 2 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You are sensitive, you have strong intuition power, emotional nature and helping too.
+ It is an average combination. You will get delayed success with struggle. You will face sudden gains and sudden falls in your life span.
+ You will be popular in outside world but in your own home you don't receive your deserved respect.
+ Media, Vastu, Sales and Marketing are some good fields for you.
+ Lucky Numbers:
+ 1,5,6,2,7.
+ Neutral Numbers:
+ 4,9,8,3.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="nineeight">"You have a combination of driver 9 and conductor 8 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You are very good in handling of finances.
+ It is not a good combination. Success is hard to achieve. Married life needs more attention, to maintain balance in your professional and married life to need to take support of number 5 or 3.
+ Sports, Financial, Army, Police and Authoritative are some good fields for you. You are much comfortable doing jobs.
+
+ Lucky Numbers:
+ 5,6,7,3.
+ Neutral Numbers:
+ 1,2,9,4,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Yellow.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="ninefive">"You have a combination of driver 9 and conductor 5 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You have good emotional balance, adaptability and very good communication skills.
+ It is a good combination. You will be professionally successful. Take support of number 1.
+ Media, Hotel and Banking are some good sectors for you.
+
+ Lucky Numbers:
+ 1,3,6,5.
+ Neutral Numbers:
+ 2,7,8,9,4.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="ninefour">"You have a combination of driver 9 and conductor 4 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You are disciplined, freedom lover, hard working, you make your own rule, proudy, egoistic, stubborn and you tend to hide your feelings. You are good in managing things.
+ It is not a good combination. You will face struggle in your married life and professional life. Take support of number 1. You need to take care of your health.
+ But with time you will get success. Army , Police, IS officer, Healing Profession and Sales and Marketing are suitable for you.
+ You have to do hard work in every aspect of your life.
+
+ Lucky Numbers:
+ 1,3,5,6,7.
+ Neutral Numbers:
+ 4,2,9,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="ninenine">"You have a combination of driver 9 and conductor 9 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You are energetic and humanitarian.
+ It is an average combination. You will get success but not up to the mark. You are very enthusiastic, you need to balance your professional and personal life. Take support of number 1 or 5.
+ Hotel, Sports, Army and Authoritative jobs are some good fields for you.
+
+ Lucky Numbers:
+ 1,5,3.
+ Neutral Numbers:
+ 9,7,6.
+ Unlucky Numbers:
+ 4,8,2.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="nineone">"You have a combination of driver 9 and conductor 1 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You have ruling ability, strong personality, determination and loyalty.
+ It is a very good combination. You will be professionally successful. You are very sharp minded, proudy. Take support of number 3, 5 and 6.
+ Army, Police, Authoritative Jobs and Sports are good fields for you.
+
+ Lucky Numbers:
+ 1,3,5,6,4.
+ Neutral Numbers:
+ 2,7,9,8,3.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="nineseven">"You have a combination of driver 9 and conductor 7 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You have strong believe in god and spirituality sometimes you are less confident.
+ It is an average combination. You love to serve others and are very spiritual by nature. You will be less successful than you deserve. Take support of number 1.
+ Occult Science, NGO, Sports, Food Business, Teacher and Healing Profession are some good fields for you. You will be more comfortable in jobs
+
+ Lucky Numbers:
+ 1,5,3,6.
+ Neutral Numbers:
+ 2,9,4,7,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="ninesix">"You have a combination of driver 9 and conductor 6 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You are very materialistic and very good with relations.
+ It is an average combination. You will be professionally successful but stay away from controversies. You may face disturbed married life. Take support of number 1.
+ Sports, NGO, Media, Actor, Anchor, Tour and Travel and Business related to Glamour are good fields for you.
+
+ Lucky Numbers:
+ 1,4,5,6,7.
+ Neutral Numbers:
+ 2,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="ninethree">"You have a combination of driver 9 and conductor 3 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You are creative, expressive, artistic, spiritual, moody, sometimes depressive.
+ It is a good combination. You will be financially successful, you have a beautiful nauture. You love to do social work.
+ Computer, Police, Army, NGO and IS Officer are some good sectors you can get into. Take support of number 1.
+
+ Lucky Numbers:
+ 1,5,3.
+ Neutral Numbers:
+ 2,4,8,7,9.
+ Unlucky Numbers:
+ 6.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="ninetwo">"You have a combination of driver 9 and conductor 2 you are sensitive, energetic, idealistic, philosopher, compassionate, leader, love to do charity work and strict with your principles and very generous. You are sensitive, you have strong intuition power, emotional nature and helping too.
+ It is an average combination. You are very sensitive in nature, you love to server other. You are inclined to spiritualism. You need to take extra care to your relations. Take support of number 1.
+ .
+ Sports, Restaurant, Art and NGO are some good fields for you.
+ Lucky Numbers:
+ 1,5,3,2.
+ Neutral Numbers:
+ 4,7,6,8,9.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="oneeight">"You have a combination of driver 1 and conductor 8 you have ruling abilities, strong personality, determination, loyalty and discipline.
+ It is not a good combination. You face struggle in married life, you have to pay for success.
+ You are freedom seeker, egoistic, sometimes stiff and proudy. Authoritative jobs, sports, financial business, Banking sector, Property Business, Police and Army are some good fields for you.
+
+ Lucky Numbers:
+ 5,7,6.
+ Neutral Numbers:
+ 1,3,4,8.
+ Unlucky Numbers:
+2,9.
+ Lucky Colors:
+ Green, Yellow, White.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="onefive">"You have a combination of driver 1 and conductor 5 you have ruling abilities, strong personality, determination, loyalty and discipline.
+ It is a very good combination, you are intelligent and will be professionally successful. Emotionally balanced, quality of adaptability and good communication skills.
+ Media, Hotel Industry, Banking and Administrative jobs are good fields for you.
+
+ Lucky Numbers:
+ 1,5,3,2,6,4,9.
+ Neutral Numbers:
+ 8,7.
+ Unlucky Numbers:
+None.
+ Lucky Colors:
+ Green, Red, Yellow, White.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="onefour">"You have a combination of driver 1 and conductor 4 you have ruling abilities, strong personality, determination, loyalty and discipline.
+ It is a very good combination, you are freedom lover you make your own rules.
+ Some times you become proudy and egoistic, you are very hard working.
+ You'll be successful by working hard on your projects.
+
+ Lucky Numbers:
+ 1,5,6,7.
+ Neutral Numbers:
+ 2,9,3,4,8.
+ Unlucky Numbers:
+None.
+ Lucky Colors:
+ White,Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="onenine">"You have a combination of driver 1 and conductor 9 it is a very good combination, you have ruling abilities, strong personality, determination, leadership qualities and loyalty is your basic trait.
+
+ You love to serve the humanity. You surely get successful in your life. You are very ambitious and professionally successful.
+
+ Some times you get too proudy.
+
+ Lucky Numbers:
+ 1,9,5,3,4.
+ Neutral Numbers:
+ 6,7,2.
+ Unlucky Numbers:
+ 8.
+ Lucky Colors:
+ Orange, White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="oneone">"You have combination of driver 1 and conductor 1 you have ruling abilities and a strong personality.
+
+ Loyalty is your basic trait you are very determined and goal oriented, as you have number 1 as your conductor you might have a hard time handling your finances  because of your carefree nature.  You easily trust others.
+
+ Lucky numbers :
+ 9,2,5,3,6,4.
+ Neutral numbers:
+ 7,1.
+ Unlucky number:
+ 8.
+ Lucky colors:
+ Red, White, Green, Yellow.
+ Unlucky color:
+ Black.
+
+
+"</string>
+    <string name="oneseven">"You have a combination of driver 1 and conductor 7 you have ruling abilities, strong personality, determination, loyalty and discipline.
+ It is an average combination. Some times you are not confident. Healing profession, occult sciences and research are good fields for you.
+ You can be betrayed by your near ones. You should not trust easily anyone.
+
+ Lucky Numbers:
+ 1,5,4,3,6.
+ Neutral Numbers:
+ 7,8,2,9.
+ Unlucky Numbers:
+None.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="onesix">"You have a combination of driver 1 and conductor 6 you have ruling abilities, strong personality, determination, loyalty and discipline.
+ It is a very good combination, you are intelligent and will be professionally successful. You are money minded, you find it difficult to cope with relations.
+
+ Authoritative jobs, Glamour related business, Media, Acting, Tour and Travel and Anchoring are some good professions.
+ Lucky Numbers:
+ 1,5,4,7,6.
+ Neutral Numbers:
+ 3,8,2,9.
+ Unlucky Numbers:
+None.
+ Lucky Colors:
+ Green, Red, White.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="onethree">"You have a combination of driver 1 and conductor 3 you have ruling abilities, strong personality, determination, loyalty and discipline.
+ It is a very good combination, you are intelligent and will be professionally successful. Educational sector, hotel industry, occult science, healing profession and fields of arts are very good for you.
+ You have to control your pride.
+
+ Lucky Numbers:
+ 1,5,3,2,9.
+ Neutral Numbers:
+ 4,8,6,7.
+ Unlucky Numbers:
+None.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ White.
+
+
+"</string>
+    <string name="onetwo">"You are a combination of driver 1 and conductor 2 it is a good combination of power and emotions.
+
+ You have ruling abilities, strong personality, determination, loyalty on the other hand you are emotional as well.
+
+ You are a successful person but you need to control your mood swings. Don't let your emotions over rule you.  You have intuition powers.
+
+ Lucky Numbers:
+ 1,5,3,2,9.
+ Neutral Numbers:
+ 6,7,4.
+ Unlucky Numbers:
+ 8.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_menu_title">Search</string>
+    <string name="seveneight">"You have a combination of driver 7 and conductor 8 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You are very good in handling of finances.
+ It is an average combination. Success is hard to achieve. Married life needs more attention, to maintain balance in your professional and married life to need to take support of number 6 and do remedies for Venus.
+ Law, Occult, Banking and Healing are some good fields for you.
+
+ Lucky Numbers:
+ 4,5,6,7.
+ Neutral Numbers:
+ 2,9,3,8.
+ Unlucky Numbers:
+ 1.
+ Lucky Colors:
+ White, Green, Yellow, Black.
+ Unlucky Color:
+  Red.
+
+
+"</string>
+    <string name="sevenfive">"You have a combination of driver 7 and conductor 5 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You have good emotional balance, adaptability and very good communication skills.
+ It is an average combination. You will be professionally successful. Take support of number 6. You will face disturbance in your married life.
+ Occult Science, Doctor, Administrative Jobs, Banking, Engineer and Healing are some good sectors for you.
+
+ Lucky Numbers:
+ 1,2,3,4,6,5.
+ Neutral Numbers:
+ 8,9,7.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="sevenfour">"You have a combination of driver 7 and conductor 4 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You are disciplined, freedom lover, hard working, you make your own rule, proudy, egoistic, stubborn and you tend to hide your feelings. You are good in managing things.
+ It is a good combination. You will surely get success in your life. Take support of number 6. You may face disturbance in married life.
+ Import-Export, Media and Occult Sciences are suitable for you.
+
+
+ Lucky Numbers:
+ 1,4,5,6,7.
+ Neutral Numbers:
+ 3,9,8.
+ Unlucky Numbers:
+ 2.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="sevennine">"You have a combination of driver 7 and conductor 9 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You are energetic and humanitarian.
+ It is an average combination. You will get success but not up to the mark. You will face problems in married life. You need to take extra care of your health. You will be betrayed by others. Take support of number 1.
+ Occult Science, Healing Profession, Sports, Army and Police are some good fields for you.
+
+ Lucky Numbers:
+ 1,4,6,5,3.
+ Neutral Numbers:
+ 2,9,7.
+ Unlucky Numbers:
+ 8.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="sevenone">"You have a combination of driver 7 and conductor 1 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You have ruling ability, strong personality, determination and loyalty.
+ It is an average combination. You may face disappointments in your life. You should be careful when it comes to trusting someone.
+ Hotel Industry, Food Industry, Art, Occult Sciences and Higher Studies are good fields for you. You will be more comfortable doing jobs. Take support of number 6.
+
+ Lucky Numbers:
+ 1,2,6,4.
+ Neutral Numbers:
+ 9,8,2,3,7.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="sevenseven">"You have a combination of driver 7 and conductor 7 you are disciplined, freedom lover, excellent organiser, practical, responsible, hard working, proudy, reliable, egoistic and stiff. You have strong believe in god and spirituality sometimes you are less confident.
+ It is not a good combination. You may face disappointments in your relationships, married life and professional life. You should stay away from controversies. You are easily misguided by others, be alert and cautious from people you are surrounded with.
+ Healing Profession, Occult Science, Art and Vastu are some good fields for you. You will be more comfortable in jobs. Take support of number 6. You are easily misunderstood by others.
+
+ Lucky Numbers:
+ 1,5,6,4.
+ Neutral Numbers:
+ 2,9,3,7,8.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="sevensix">"You have a combination of driver 7 and conductor 6 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You are very materialistic and very good with relations.
+ It is a very good combination. You will be professionally successful but stay away from controversies. You are an art lover.
+ Media, Tour and Travel, Acting, Singing, Occult Science and Business related to Glamour are good fields for you.
+
+ Lucky Numbers:
+ 1,4,5,6,7.
+ Neutral Numbers:
+ 2,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="seventhree">"You have a combination of driver 7 and conductor 3 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You are creative, expressive, artistic, spiritual, moody, sometimes depressive.
+ It is a good combination. You will get success in life, you may face disturbed married life. You need to take extra care with your relations. Take support of number 1.
+ Education, Art, Doctor, Engineer, Teacher, Preacher and Healing Profession are some good sectors you can get into.
+
+ Lucky Numbers:
+ 1,5,3,2,4.
+ Neutral Numbers:
+ 6,7,8,9.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ White, Black.
+
+
+"</string>
+    <string name="seventwo">"You have a combination of driver 7 and conductor 2 you are spiritual but not religious, introvert, intellectual, logical, good healer, researcher and hate gossips. You are sensitive, you have strong intuition power, emotional nature and helping too.
+ It is not a good combination. You will face sudden falls in your life span.
+ You need to take support of number 1 and your name number should be on number 1 as well.
+ Navy and Liquid related jobs/businesses are good fields for you.
+ Lucky Numbers:
+ 4,5,6,3,2,1.
+ Neutral Numbers:
+ 9,8,7.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="sixeight">"You have a combination of driver 6 and conductor 8 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You are ambitious, disciplined and very good in handling of finances.
+ It is a good combination. You will get slow success. Take support of number 5.
+ Media, Law, Factory Business and Sports are some good fields for you.
+
+ Lucky Numbers:
+ 5,6,7.
+ Neutral Numbers:
+ 2,4,8.
+ Unlucky Numbers:
+ 1,3,9.
+ Lucky Colors:
+ White, Green.
+ Unlucky Color:
+ Black, Red, Yellow.
+
+
+"</string>
+    <string name="sixfive">"You have a combination of driver 6 and conductor 5 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You have good emotional balance, adaptability and very good communication skills.
+ It is a very good combination. You will be professionally successful. Take support of number 1.
+ Restaurant, Media, Tour and Travel, Sales and Marketing, Administrative Jobs, Banking and Computers are some good sectors for you.
+
+ Lucky Numbers:
+ 1,6,5,7.
+ Neutral Numbers:
+ 4,9.
+ Unlucky Numbers:
+ 3,8.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="sixfour">"You have a combination of driver 6 and conductor 4 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You are disciplined, freedom lover, hard working, you make your own rules, proudy, egoistic, stubborn and you tend you hide your feelings.
+ It is a good combination. You will face struggle before getting success in your life. Take support of number 1.
+ Media, Law and Import - Export are suitable for you.
+ You have to do hard work in every aspect of your life.
+
+ Lucky Numbers:
+ 1,4,5,6,7.
+ Neutral Numbers:
+ 2,8,9.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="sixnine">"You have a combination of driver 6 and conductor 9 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You are energetic, sensitive, idealistic and humanitarian.
+ It is an average combination. You will get success but not up to the mark. You will face problems in married life. Take support of number 1.
+ Media, Restaurants, Sports, Authoritative jobs, Sales and Marketing and Technical are some good fields for you.
+
+ Lucky Numbers:
+ 1,4,5.
+ Neutral Numbers:
+ 2,9,7,6,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Blue, Yellow.
+
+
+"</string>
+    <string name="sixone">"You have a combination of driver 6 and conductor 1 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You have ruling ability, strong personality, determination and loyalty.
+ It is a very good combination. You will be professionally successful. You can be a good politician.
+ Media, Actor, Singer, Glamour related business, Tour and Travel, Authoritative Jobs and Politics are good fields for you.
+
+ Lucky Numbers:
+ 1,7,5,6,4.
+ Neutral Numbers:
+ 2,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="sixseven">"You have a combination of driver 6 and conductor 7 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You have strong believe in god and spirituality sometimes you are less confident.
+ It is a very good combination. You will get professional success. You will rise with your hard work and simple nature. Take support of number 1.
+ Healing Profession, Media, Vastu are some good fields for you. You love to do social work. Beware of backstabbers. You will be more comfortable in jobs
+
+ Lucky Numbers:
+ 1,5,6,4,7.
+ Neutral Numbers:
+ 2,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="sixsix">"You have a combination of driver 6 and conductor 6 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy.
+ It is a good combination. You will be professionally successful but stay away from controversies. You are an art lover. Take support of number 1 and 5.
+ Media, Politics, Acting, Singing, Hotel and Restaurants, Tour and Travel, Sales and Marketing  and Business related to Glamour are good fields for you.
+
+ Lucky Numbers:
+ 1,4,5,6,7.
+ Neutral Numbers:
+ 2,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="sixthree">"You have a combination of driver 6 and conductor 3 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You are creative, expressive, artistic, spiritual, moody, sometimes depressive.
+ It is not a good combination. You will face struggle in your life, you will have a disturbed married life.
+ Politics, Occult Science, Healing Profession and Spiritual guides are some good sectors you can get into.
+
+ Lucky Numbers:
+ 1,5,6,7.
+ Neutral Numbers:
+ 2,4,8,9.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="sixtwo">"You have a combination of driver 6 and conductor 2 you are loving, caring, sacrificing, healer, protector, teacher, idealistic, loyal, self centered, egoistic and full of sympathy. You are sensitive, you have strong intuition power, emotional nature and helping too.
+ It is an average combination. You will get delayed success with struggle. You will face sudden gains and sudden falls in your life span.
+ Take support of number 1.
+ Media, Navy, Glamour related business are some good fields for you.
+ Lucky Numbers:
+ 1,5,7,2.
+ Neutral Numbers:
+ 6,4,9,8.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="threeeight">"You have a combination of driver 3 and conductor 8 you are intellectual, disciplined, freedom lover , hard working, proudy, egoistic and stiff.
+ It is an average combination. You will get slow success. Insurance, Marketing, Sales, Speculation, Banking, Police, Army, Sports and Financial Business are good fields for you.
+
+ Lucky Numbers:
+ 7,5,8,3.
+ Neutral Numbers:
+ 4,2,9.
+ Unlucky Numbers:
+ 1,6.
+ Lucky Colors:
+ Green, Yellow.
+ Unlucky Color:
+ Black, White.
+
+
+"</string>
+    <string name="threefive">"You have a combination of driver 3 and conductor 5 you are intellectual, emotionally balanced, adaptable and have good communication skills..
+ It is a good combination. You will be professionally successful. Banking, Arts, Media and Healing Professions are good fields for you. Watch your words before speaking. You should not involve in any kind of politics.
+ You are comfortable in jobs.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 4,8,7,9.
+ Unlucky Numbers:
+6.
+ Lucky Colors:
+ Green, Red, Yellow, White.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="threefour">"You have a combination of driver 3 and conductor 4 you are intellectual, hard working, stubborn, proudy, freedom lover, egoistic, disciplined. You often hide your emotions and feelings
+ It is an average combination. You will get slow success. You are outspoken so you should control your words before speaking. Healing profession, army, police, media, vastu and sales and marketing are good fields for you.
+
+ Lucky Numbers:
+ 1,5,7,3,4.
+ Neutral Numbers:
+ 8.
+ Unlucky Numbers:
+6,2,9.
+ Lucky Colors:
+ Green, Red, White, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="threenine">"You have a combination of driver 3 and conductor 9 you are intellectual, energetic, proudy, aggressive and humanitarian.
+ It is an average combination. You will be professionally successful with little struggle. You are very spiritual. Healing Profession, Astrology, Social Work, Sports, Army, Police and Authoritative Jobs are good fields for you.
+ Do not get into speculation business.
+
+ Lucky Numbers:
+ 1,5,9,3.
+ Neutral Numbers:
+ 7.
+ Unlucky Numbers:
+ 4,8,2,6.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="threeone">"You have a combination of driver 3 and conductor 1 you are intellectual, ambitious, loyal, determined, artistic, good teacher, leader, actor, player.
+ It is a good combination. You will be professionally successful. You often get into controversies. You have morality, divine love and justice in your nature.
+ Occult science, Healing profession, Consultancy, Arts, Teaching are some good fields for you.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 4,8,7,9.
+ Unlucky Numbers:
+6.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, White, Blue.
+
+
+"</string>
+    <string name="threeseven">"You have a combination of driver 3 and conductor 7 you are intellectual, spiritual, some times less confident.
+ It is an average combination for success but very good combination for education. Healing profession, IS, Doctors, Engineers, Researchers are seen in this combination.
+ You are more comfortable in jobs.
+
+ Lucky Numbers:
+ 1,5,3,7,4.
+ Neutral Numbers:
+ 9,8,6,2.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, White.
+
+
+"</string>
+    <string name="threesix">"You have a combination of driver 3 and conductor 6 you are intellectual, materialistic and art lover.
+ It is a bad combination. You have low chances of being professionally successful. You need to take extra care in your married life. You have to pay for your professional success.
+ Acting, singing, media are some good fields for you.
+
+ Lucky Numbers:
+ 1,5,4.
+ Neutral Numbers:
+ 3,6,2,8,7,9.
+ Unlucky Numbers:
+ None.
+ Lucky Colors:
+ Green, Red.
+ Unlucky Color:
+ Black, White, Yellow.
+
+
+"</string>
+    <string name="threethree">"You have a combination of driver 3 and conductor 3 you are intellectual, artistic, religious.
+ It is a good combination. You will be professionally successful. Healing profession, doctor, acting, arts and singing are good fields for you.
+ You should control your words before speaking. Do not enroll for speculation businesses, tour and travel, hotel and share markets.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 4,8,7,9.
+ Unlucky Numbers:
+6.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, White, Blue.
+
+
+"</string>
+    <string name="threetwo">"You have a combination of driver 3 and conductor 2 you are intellectual, have intuition powers, sensitive, emotional and helping.
+ It is an average combination. You will be professionally successful. Education sector is good for you. You are religious.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 7.
+ Unlucky Numbers:
+ 6,4,8,9.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, White, Blue.
+
+
+"</string>
+    <string name="twoeight">"You have a combination of driver 2 and conductor 8 you have sensitive, emotional, helping nature and you have intuition powers. You are disciplined on the other hand you are freedom seeker.
+ It is an average combination. Pride, ego and stiffness is also a part of your nature. You know how to make money, you are a money magnet.
+ You will face problems in married life. To maintain balance in your relations take support of number 5 and do remedies for MERCURY(Budh).
+
+ Lucky Numbers:
+ 5,7,6.
+ Neutral Numbers:
+ 1,2,3,4,8.
+ Unlucky Numbers:
+ 9.
+ Lucky Colors:
+ White, Green, Yellow.
+ Unlucky Color:
+ Black, Red.
+
+
+"</string>
+    <string name="twofive">"You have a combination of driver 2 and conductor 5 you have sensitive, emotional, helping nature and you have intuition powers. You have adaptability, good communication skills and emotional balance in your personality.
+ It is a good combination. You will be professionally successful. Jobs related to land are good for you, administrative jobs, media, banking are good fields for you.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 7,8,4,9,6.
+ Unlucky Numbers:
+None.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="twofour">"You have a combination of driver 2 and conductor 4 you have sensitive, emotional, helping nature and you have intuition powers. You are disciplined on the other hand you like to make your own rules.
+ It is not a good combination. Pride and Ego are a part of your personality. You will be professionally successful. You often fall in the trap of scandals and controversy.
+ You should take support of number 1 and do the remedies for SUN. Tour and travels, sales and marketing, media are some good fields for you
+
+ Lucky Numbers:
+ 1,5,2,3,7.
+ Neutral Numbers:
+ 6,8,4,9.
+ Unlucky Numbers:
+.
+ Lucky Colors:
+ Yellow, White, Green, Red.
+ Unlucky Color:
+ Black, Blue.
+
+
+"</string>
+    <string name="twonine">"You have a combination of driver 2 and conductor 9 you have sensitive, emotional, helping nature and you have intuition powers. You are energetic, humanitarian and proudy.
+ It is a good combination. You are not interested in worldly desires. You can gain name and fame very easily. You are determined, emotional and enthusiastic.
+ You are good in all sectors and fields except speculation business.
+
+ Lucky Numbers:
+ 1,5,3.
+ Neutral Numbers:
+ 6,7,2,9.
+ Unlucky Numbers:
+ 4,8.
+ Lucky Colors:
+ Yellow, Green, Red.
+ Unlucky Color:
+ Black, Blue(Neutral).
+
+
+"</string>
+    <string name="twoone">"You have a combination of driver 2 and conductor 1 you have sensitive, emotional, helping nature and you have intuition powers, you have ruling abilities, strong personality, determination and loyalty.
+ It is a very good combination. You can have sudden mood swings.You will be successful but after a certain amount of hard work and determination.
+ Remedies for SUN will be beneficial for you.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 7,6,4,9.
+ Unlucky Numbers:
+8.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="twoseven">"You have a combination of driver 2 and conductor 7 you have sensitive, emotional, helping nature and you have intuition powers. Some times you are less confident.
+ It is an average combination. Education related sectors are good for you, you can go into medical, engineering, occult sciences, healing professions and research.
+ You are more comfortable in jobs instead of business. You can easily make money with your knowledge.
+
+ Lucky Numbers:
+ 1,5,4,6.
+ Neutral Numbers:
+ 7,8,2,9,3.
+ Unlucky Numbers:
+None.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+    <string name="twosix">"You have a combination of driver 2 and conductor 6 you have sensitive, emotional, helping nature and you have intuition powers, you are very materialistic.
+ It is an average combination. You fall in the trap of scandals and controversy very often. You are often misunderstood by other, you will achieve success with hard work.
+ Media, Glamour related business, acting, singing, hotel and restaurant business, tour and travel are some good fields for you.
+ Lucky Numbers:
+ 1,5,4,7,6.
+ Neutral Numbers:
+ 8,2,9.
+ Unlucky Numbers:
+ 3.
+ Lucky Colors:
+ White, Green, Red.
+ Unlucky Color:
+ Black, Yellow.
+
+
+"</string>
+    <string name="twothree">"You have a combination of driver 2 and conductor 3 you have sensitive, emotional, helping nature and you have intuition powers.
+ It is an average combination. You will be professionally successful. Healing profession, occult sciences, education sector, art and being a consultant are good fields for you.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 4,8,7,9.
+ Unlucky Numbers:
+6.
+ Lucky Colors:
+ Green, Red, Yellow.
+ Unlucky Color:
+ Black, White, Blue.
+
+
+"</string>
+    <string name="twotwo">"You have a combination of driver 2 and conductor 2 you have sensitive, emotional, helping nature and you have strong intuition powers.
+ It is not a good combination. You can have sudden mood swings. You need to take support of number 5 and number 1 to maintain emotional balance.
+
+ Lucky Numbers:
+ 1,5,2,3.
+ Neutral Numbers:
+ 6,7.
+ Unlucky Numbers:
+8,4,9.
+ Lucky Colors:
+ White, Green, Red, Yellow.
+ Unlucky Color:
+ Black.
+
+
+"</string>
+</resources>

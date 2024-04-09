@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logof"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NumerologySolutions">
+        <activity
+            android:name="spark.india.numerologysolutions.remedy"
+            android:exported="true" />
+        <activity
+            android:name="spark.india.numerologysolutions.users"
+            android:exported="true" />
+        <activity
+            android:name="spark.india.numerologysolutions.kua"
+            android:exported="true" />
+        <activity
+            android:name="spark.india.numerologysolutions.personal"
+            android:exported="true" />
+        <activity
+            android:name="spark.india.numerologysolutions.grid"
+            android:exported="true" />
+        <activity
+            android:name="spark.india.numerologysolutions.overall"
+            android:exported="true" />
+        <activity
+            android:name="spark.india.numerologysolutions.info"
+            android:exported="true"
+            android:windowSoftInputMode="stateVisible|adjustPan" />
+        <activity
+            android:name="spark.india.numerologysolutions.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
