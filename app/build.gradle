@@ -3,14 +3,14 @@ plugins {
 }
 
 android {
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "spark.india.numerologysolutions"
         minSdk 21
         targetSdk 33
-        versionCode 6
-        versionName "1.006"
+        versionCode 8
+        versionName "1.008"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
